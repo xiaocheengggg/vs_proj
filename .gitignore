@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/vs_proj1/v17/Browse.VC.opendb
+/.vs/vs_proj1/v17/Browse.VC.db-wal
+/.vs/vs_proj1/v17/Browse.VC.db-shm
+/.vs/vs_proj1/CopilotIndices/17.13.444.19527/CodeChunks.db-shm
+/.vs/vs_proj1/CopilotIndices/17.13.444.19527/CodeChunks.db-wal
+/.vs/vs_proj1/CopilotIndices/17.13.444.19527/SemanticSymbols.db-shm
+/.vs/vs_proj1/CopilotIndices/17.13.444.19527/SemanticSymbols.db-wal
+/.vs/vs_proj1/FileContentIndex/02851ab9-22cb-42b2-867d-090027663692.vsidx
