@@ -22,6 +22,9 @@ int main()
 
 #include <stdio.h>
 
+# define Version 0.1
+
+
 #define LENGTH 10
 #define WIDTH  5
 #define NEWLINE '\n'
